@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/Portfolio-website/static/css/main.e412fc51.css",
-    "main.js": "/Portfolio-website/static/js/main.0be8afeb.js",
+    "main.js": "/Portfolio-website/static/js/main.87eda5d7.js",
     "static/media/ecommerce.png": "/Portfolio-website/static/media/ecommerce.522da76635d52117102b.png",
     "static/media/sidebar.png": "/Portfolio-website/static/media/sidebar.b2225070b8adae68d063.png",
     "static/media/photo1.jpg": "/Portfolio-website/static/media/photo1.c109d48bbcb3afc686e4.jpg",
     "static/media/musicapp.png": "/Portfolio-website/static/media/musicapp.f1c301f91904ef5f9249.png",
-    "static/media/resume.pdf": "/Portfolio-website/static/media/resume.dfecb5871f8cd9bbf560.pdf",
+    "static/media/resume.pdf": "/Portfolio-website/static/media/resume.8cc0fc84666cf2205e07.pdf",
     "static/media/hoc.png": "/Portfolio-website/static/media/hoc.e6af51fc04c57ae67096.png",
     "static/media/thumbup.png": "/Portfolio-website/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/humble.png": "/Portfolio-website/static/media/humble.c8b32b53675e68978981.png",
@@ -16,10 +16,10 @@
     "static/media/glasses.png": "/Portfolio-website/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
     "index.html": "/Portfolio-website/index.html",
     "main.e412fc51.css.map": "/Portfolio-website/static/css/main.e412fc51.css.map",
-    "main.0be8afeb.js.map": "/Portfolio-website/static/js/main.0be8afeb.js.map"
+    "main.87eda5d7.js.map": "/Portfolio-website/static/js/main.87eda5d7.js.map"
   },
   "entrypoints": [
     "static/css/main.e412fc51.css",
-    "static/js/main.0be8afeb.js"
+    "static/js/main.87eda5d7.js"
   ]
 }
